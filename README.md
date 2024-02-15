@@ -6,7 +6,7 @@
 Ai000 AD-Hercules (Codename: Ritchie Blackmoore) is a penetration testing tool for Windows infrastructure that has been developed by Ai000 Cybernetic QLab as an offensive research project. It can be used in the red-teaming projects and penetration testing of an active directory-based environment.
 
 <p align="center">
-<img src=https://github.com/aiooord/hercules/blob/main/v1.1.0.PNG">
+<img src="https://github.com/aiooord/hercules/blob/main/v1.1.0.PNG">
 </p>
 
 Ai000 AD-Hercules has no dependency on third parties and other handy tools for Windows environments (like the pass-the-hash module of mimikatz).
