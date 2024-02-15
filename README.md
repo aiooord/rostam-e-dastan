@@ -16,20 +16,20 @@ Ai000 AD-Hercules consists of the following executable components:
 - **adh.exe:** It is the main executable that gets credentials to spawn processes and execute commands.
 - **adh-engine.exe:** It is passing the hash operation in the background to spawn the file manager, making an rdp connection and other useful things with the right privileges.
 - **adh-fmc.exe:** It is a console-based file system manager.
-- **pdh-fmg.exe:** It is a graphical-based file system manager.
+- **adh-fmg.exe:** It is a graphical-based file system manager.
 
-## Development of the PST:
-![](https://img.shields.io/static/v1?label=&message=pst.exe:&color=blue)
+## Development of the ADH:
+![](https://img.shields.io/static/v1?label=&message=adh.exe:&color=blue)
 - Getting credentials
 - Spawn CMD.exe
 - Make RDP Connection
 - Spawn console-based file manager
 
-![](https://img.shields.io/static/v1?label=&message=pst-engine.exe:&color=blue)
+![](https://img.shields.io/static/v1?label=&message=adh-engine.exe:&color=blue)
 - Pass-the-hash module
 - FUD it from some anti-viruses
 
-![](https://img.shields.io/static/v1?label=&message=pst-fmc.exe:&color=blue)
+![](https://img.shields.io/static/v1?label=&message=adh-fmc.exe:&color=blue)
 - Change directories
 - Make files
 - Make directories
@@ -43,7 +43,7 @@ Ai000 AD-Hercules consists of the following executable components:
 - Upload and Download files from/to the remote machine
 		
 # Bug Tracker:
-![](https://img.shields.io/static/v1?label=&message=pst-v1.1.0:&color=red)
+![](https://img.shields.io/static/v1?label=&message=pst-v1.0.0:&color=red)
 - no bug, no pain. :D
 
 # Contact:
