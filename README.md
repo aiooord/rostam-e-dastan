@@ -1,3 +1,6 @@
+# Responsibility
+The authors are not responsible for third parties' actions while using the provided software. This software is considered a tool for legal penetration testing or research. In case of misuse, the authors don't bear any responsibility for the actions of third parties.
+
 # Ai000 AD Hercules
 ![Generic badge](https://img.shields.io/badge/version-1.0.0-red.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
@@ -9,12 +12,12 @@ Ai000 AD-Hercules (Codename: Ritchie Blackmoore) is a penetration testing tool f
 <img src="https://github.com/aiooord/hercules/blob/main/v1.1.0.PNG">
 </p>
 
-Ai000 AD-Hercules has no dependency on third parties and other handy tools for Windows environments (like the pass-the-hash module of mimikatz).
+Ai000 AD-Hercules have no dependency on third parties and other handy tools for Windows environments (like the pass-the-hash module of mimikatz).
 
 ## Ai000 AD-Hercules Components:
 Ai000 AD-Hercules consists of the following executable components:
-- **adh.exe:** It is the main executable that gets credentials to spawn processes and execute commands.
-- **adh-engine.exe:** It is passing the hash operation in the background to spawn the file manager, making an rdp connection and other useful things with the right privileges.
+- **adh.exe:** The main executable gets credentials to spawn processes and execute commands.
+- **adh-engine.exe:** It passes the hash operation in the background to spawn the file manager, making an rdp connection and other useful things with the right privileges.
 - **adh-fmc.exe:** It is a console-based file system manager.
 - **adh-fmg.exe:** It is a graphical-based file system manager.
 
