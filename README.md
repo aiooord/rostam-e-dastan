@@ -16,10 +16,11 @@ Ai000 AD-Hercules have no dependency on third parties and other handy tools for 
 
 ## Ai000 AD-Hercules Components:
 Ai000 AD-Hercules consists of the following executable components:
-- **adh.exe:** The main executable gets credentials to spawn processes and execute commands.
-- **adh-engine.exe:** It passes the hash operation in the background to spawn the file manager, making an rdp connection and other useful things with the right privileges.
-- **adh-fmc.exe:** It is a console-based file system manager.
-- **adh-fmg.exe:** It is a graphical-based file system manager.
+- **aah_cui.exe:** This process is a command line-based launcher for other components of the program.
+- **aah_gui.exe:** This process is a graphical-based launcher for other components of the program.
+- **aah_engine.exe:** It passes the hash operation in the background to spawn the file manager, making an RDP connection and other useful things with the right privileges.
+- **aah_cmd.exe:** It is a console-based file system manager.
+- **adh_fmg.exe:** It is a graphical-based file system manager.
 
 ## Development of the ADH:
 ![](https://img.shields.io/static/v1?label=&message=adh.exe:&color=blue)
