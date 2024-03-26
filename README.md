@@ -2,7 +2,7 @@
 The authors are not responsible for third parties' actions while using the provided software. This software is considered a tool for legal penetration testing or research. In case of misuse, the authors don't bear any responsibility for the actions of third parties.
 
 # Ai000 AD Rostam
-![Generic badge](https://img.shields.io/badge/Version%3f-v.0.1.0.20240306-red.svg)
+![Generic badge](https://img.shields.io/badge/Version-v.0.1.0.20240306-red.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Generic badge](https://img.shields.io/badge/Windows-Passed-blue.svg)
 
