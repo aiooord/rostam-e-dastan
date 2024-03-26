@@ -73,6 +73,12 @@ Ai000 AD-Hercules consists of the following executable components:
 ![](https://img.shields.io/static/v1?label=&message=pst-v1.0.0:&color=red)
 - no bug, no pain. :D
 
+# Developers:
+- Milad Kahsari Alhadi
+- Mohammad Mahdi Anbaraki
+- Amir Moahmmad Jahangirzad
+- Mahdyar Bahrami
+  
 # Contact:
 - e-mail: m.kahsari@gmail.com
 - website: aiooo.ir
