@@ -9,7 +9,7 @@ The authors are not responsible for third parties' actions while using the provi
 Ai000 AD-Rostam (Codename: Ritchie Blackmoore) is a penetration testing tool for Windows infrastructure that Ai000 Cybernetic QLab has developed as an offensive research project. It can be used in red-teaming projects and penetration testing for an active directory-based environment.
 
 <p align="center">
-<img src="https://github.com/aiooord/hercules/blob/main/v1.1.0.PNG">
+<img src="https://github.com/aiooord/hercules/blob/main/v.0.1.0-20240306.PNG">
 </p>
 
 Ai000 AD-Rostam has no dependency on third parties and other handy tools for Windows environments (like the pass-the-hash module of mimikatz).
