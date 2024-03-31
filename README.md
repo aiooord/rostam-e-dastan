@@ -6,7 +6,7 @@ The authors are not responsible for third parties' actions while using the provi
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Generic badge](https://img.shields.io/badge/Windows-Passed-blue.svg)
 
-Ai000 AD-Rostam (Codename: Ritchie Blackmoore) is a penetration testing tool for Windows infrastructure that Ai000 Cybernetic QLab has developed as an offensive research project. It can be used in red-teaming projects and penetration testing for an active directory-based environment.
+Ai000 AD-Rostam (Codename: Grigori Perelman) is a penetration testing tool for Windows infrastructure that Ai000 Cybernetic QLab has developed as an offensive research project. It can be used in red-teaming projects and penetration testing for an active directory-based environment. We are developing this tool just for our daily penetration testing joy. However, we are still working on this project, and we will share the stable and full features of this product soon. The current version of this product with the Grigori Perelman codename has been implemented in more than 60% of the product goals. However, it still needs development. 
 
 <p align="center">
 <img src="https://github.com/aiooord/hercules/blob/main/v.0.1.0-20240306.PNG">
@@ -21,7 +21,7 @@ Ai000 AD-Hercules consists of the following executable components:
 - **aar_pth.exe:** It passes the hash operation in the background to spawn the file manager, making an RDP connection and other useful things with the right privileges.
 - **aar_cfs.exe:** It is a console-based file system manager.
 - **aar_gfs.exe:** It is a graphical-based file system manager.
-- **aar_rpe.exe:** It is a console-based process that executes programs on remote machines and delivers their output to launcher processes.
+- **aar_agde.exe:** It is a console-based process that executes programs on remote machines and delivers their output to launcher processes.
 - **aar_drp.exe:** It is an agent that drops malicious components on the target machines, and the launcher can interact with them via HTTP/HTTPS/RPC and other protocols. 
   
 # Bug Tracker:
