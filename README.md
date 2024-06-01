@@ -1,4 +1,3 @@
-# Responsibility
 > [!WARNING]
 > The authors are not responsible for third parties' actions while using the provided software. This software is considered a tool for legal penetration testing or research. In case of misuse, the authors don't bear any responsibility for the actions of third parties.
 
