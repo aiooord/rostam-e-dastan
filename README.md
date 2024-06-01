@@ -33,8 +33,12 @@ Ai000 AD-Hercules consists of the following executable components:
 - Mohammad Mahdi Anbaraki
 - Amir Moahmmad Jahangirzad
 - Mahdyar Bahrami
+- Arash Kamjoo
+- Reza Ahmadi
+- Mohammad Amin Moslemi
+- Mahdi Davoudabadi
   
 # Contact:
-- e-mail: m.kahsari@gmail.com
-- website: aiooo.ir
+- e-mail: m_kahsari@acql.ir
+- website: acql.ir
 - telegram: aioooir
