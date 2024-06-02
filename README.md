@@ -15,7 +15,6 @@
 Ai000 AD-Rostam has no dependency on third parties and other handy tools for Windows environments (like the pass-the-hash module of mimikatz).
 
 ## Ai000 AD-Rostam Components:
-<p align="justify">
 Ai000 AD-Hercules consists of the following executable components:
 - **aar_cui.exe:** This process is a command line-based launcher for other components of the program.
 - **aar_gui.exe:** This process is a graphical-based launcher for other components of the program.
@@ -24,7 +23,7 @@ Ai000 AD-Hercules consists of the following executable components:
 - **aar_gfs.exe:** It is a graphical-based file system manager.
 - **aar_agde.exe:** It is a console-based process that executes programs on remote machines and delivers their output to launcher processes.
 - **aar_drp.exe:** It is an agent that drops malicious components on the target machines, and the launcher can interact with them via HTTP/HTTPS/RPC and other protocols. 
-</p>
+
 # Bug Tracker:
 ![](https://img.shields.io/static/v1?label=&message=aar-v.0.1.0.20240306:&color=red)
 - no bug, no pain. :D
